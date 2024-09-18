@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="https://api.imgflip.com/get_memes" width="512px"/>
+<img src="https://api.apileague.com/retrieve-random-meme" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vankhang49&icon=9&color=1)](https://visitcount.itsvg.in)
