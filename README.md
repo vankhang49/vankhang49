@@ -1,7 +1,8 @@
 <a href="#" target="_blank">
   <img src="svg/khangDVdev.svg" width="1200" alt="khangdv" />
 </a>
-## 🌐Socials
+
+# 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005118640190) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khang-v%C4%83n-056a22322/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27361579/user27361579) 
 
 # 💻Tech Stack
